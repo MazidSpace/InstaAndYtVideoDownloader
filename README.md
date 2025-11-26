@@ -2,7 +2,7 @@
 ```bash
 https://spacetubedl.vercel.app/
 ```
-MazidSpace Presents — SnapTubeDL
+MazidSpace Presents — SpaceTubeDL
 Your all-in-one video downloading solution.
 
 No more endless searching — download videos easily, fast, and hassle-free.
